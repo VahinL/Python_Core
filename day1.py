@@ -122,3 +122,5 @@
 
 # a=A1
 # a.show()
+
+print('hello')
